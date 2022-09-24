@@ -1,5 +1,5 @@
 ## Olá, eu sou o Gabriel de Souza ✋ <br/><br/>
-Estudo no CEFET-MG e atualmente estou cursando Redes de Computadores 
+🌱 Estudo no CEFET-MG e atualmente estou cursando Redes de Computadores 
 
  #
 
@@ -17,6 +17,7 @@ Estudo no CEFET-MG e atualmente estou cursando Redes de Computadores
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
+#
+<Br/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printfgabriel&layout=compact)](https://github.com/printfgabriel/github-readme-stats)
